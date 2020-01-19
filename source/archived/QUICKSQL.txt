@@ -1,0 +1,8 @@
+members
+  code vc10 /nn /unique
+  first_name /nn
+  last_name /nn
+
+contracts
+  code vc1 /nn /check (S,L)
+  
